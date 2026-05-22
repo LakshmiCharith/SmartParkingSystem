@@ -235,7 +235,7 @@ The research concludes that:
 [https://github.com/Lakshmicharith](https://github.com/Lakshmicharith)
 
 💼 LinkedIn:
-[https://linkedin.com/in/LakshmiCharith](https://linkedin.com/in/LakshmiCharith)
+[https://linkedin.com/in/LakshmiCharith](https://www.linkedin.com/in/lakshmi-charith-91694025a/)
 
 </div>
 
