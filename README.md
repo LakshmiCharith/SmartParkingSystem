@@ -225,49 +225,14 @@ The research concludes that:
 
 ---
 
-# 💻 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/Smart-Parking-System.git
-cd Smart-Parking-System
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Project
-
-```bash
-python parking_detection.py
-```
-
----
-
-# 📸 Sample Output
-
-<div align="center">
-
-🚘 Occupied Slot Detection
-🟩 Available Parking Detection
-📡 Real-Time Monitoring
-
-</div>
-
----
-
 # 👨‍💻 Author
 
 <div align="center">
 
-## NARAYANA SAGARBABU LAKSHMI CHARITH
+## NS LAKSHMI CHARITH
 
 🌐 GitHub:
-[https://github.com/Lakshmicharith07](https://github.com/Lakshmicharith07)
+[https://github.com/Lakshmicharith](https://github.com/Lakshmicharith)
 
 💼 LinkedIn:
 [https://linkedin.com/in/LakshmiCharith](https://linkedin.com/in/LakshmiCharith)
