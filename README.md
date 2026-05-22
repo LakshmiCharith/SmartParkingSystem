@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
 
 # 🚗 Smart Parking System using Deep Learning 🅿️
@@ -74,3 +75,223 @@ The system compares multiple CNN architectures and identifies the most efficient
 + Fast and lightweight model deployment
 + Smart parking occupancy monitoring
 + Efficient urban traffic management
+````
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+| Technology         | Usage                 |
+| ------------------ | --------------------- |
+| Python             | Core Programming      |
+| TensorFlow / Keras | Deep Learning         |
+| OpenCV             | Image Processing      |
+| NumPy              | Numerical Computation |
+| Matplotlib         | Visualization         |
+| CNN Models         | Classification        |
+
+</div>
+
+---
+
+# 🧩 CNN Architectures Used
+
+```python
+✔ MobileNetV2
+✔ ResNet
+✔ ResNet50
+✔ InceptionV3
+✔ VGG16
+```
+
+---
+
+# 📂 Project Structure
+
+```bash
+Smart-Parking-System/
+│
+├── dataset/
+│   ├── occupied/
+│   └── empty/
+│
+├── models/
+│   ├── MobileNetV2/
+│   ├── ResNet/
+│   ├── ResNet50/
+│   ├── InceptionV3/
+│   └── VGG16/
+│
+├── training/
+│   ├── train.py
+│   └── evaluate.py
+│
+├── app/
+│   └── parking_detection.py
+│
+├── results/
+│   ├── graphs/
+│   └── reports/
+│
+└── README.md
+```
+
+---
+
+# ⚙️ Working Process
+
+<div align="center">
+
+```mermaid
+graph TD;
+    A[Dataset Collection] --> B[Image Preprocessing]
+    B --> C[Model Training]
+    C --> D[Model Evaluation]
+    D --> E[Parking Slot Detection]
+    E --> F[Real-Time Parking Status]
+```
+
+</div>
+
+---
+
+# 📊 Performance Analysis
+
+## 🔹 MobileNetV2
+
+* Lightweight & optimized
+* High speed inference
+* Low memory consumption
+* Best accuracy (97%)
+
+## 🔹 ResNet
+
+* Strong feature extraction
+* Good performance
+* Slightly higher computation
+
+## 🔹 InceptionV3
+
+* Advanced object recognition
+* Good accuracy
+* More resource intensive
+
+## 🔹 VGG16
+
+* Deep architecture
+* High memory usage
+* Lower real-time efficiency
+
+## 🔹 ResNet50
+
+* Robust model
+* Higher computational complexity
+
+---
+
+# 🌍 Real-World Applications
+
+✅ Smart Cities
+✅ Shopping Malls
+✅ Airports
+✅ Universities
+✅ Office Campuses
+✅ Public Parking Areas
+
+---
+
+# 🔮 Future Enhancements
+
+```yaml
+Future Scope:
+  - IoT Sensor Integration
+  - Mobile App Support
+  - Cloud Analytics Dashboard
+  - Live Parking Map
+  - Automatic Number Plate Recognition
+  - Smart Payment Gateway
+```
+
+---
+
+# 📈 Research Contribution
+
+This project demonstrates how **Deep Learning** can optimize smart parking systems by comparing multiple CNN architectures.
+
+The research concludes that:
+
+> 🏆 **MobileNetV2 outperforms heavier CNN models in real-time parking applications due to its speed, efficiency, and lightweight architecture.**
+
+---
+
+# 💻 Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/your-username/Smart-Parking-System.git
+cd Smart-Parking-System
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run Project
+
+```bash
+python parking_detection.py
+```
+
+---
+
+# 📸 Sample Output
+
+<div align="center">
+
+🚘 Occupied Slot Detection
+🟩 Available Parking Detection
+📡 Real-Time Monitoring
+
+</div>
+
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+## NARAYANA SAGARBABU LAKSHMI CHARITH
+
+🌐 GitHub:
+[https://github.com/Lakshmicharith07](https://github.com/Lakshmicharith07)
+
+💼 LinkedIn:
+[https://linkedin.com/in/LakshmiCharith](https://linkedin.com/in/LakshmiCharith)
+
+</div>
+
+---
+
+# 📚 References
+
+* Deep Learning for Smart Parking Systems
+* CNN-based Vehicle Detection Research
+* TensorFlow Documentation
+* OpenCV Computer Vision Documentation
+* Smart City AI Solutions
+
+---
+
+<div align="center">
+
+# ⭐ If you like this project, don't forget to STAR the repository ⭐
+
+### 🚀 “Building Smarter Cities with AI & Deep Learning”
+
+</div>
+```
