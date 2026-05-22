@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 🚗 Smart Parking System using Deep Learning 🅿️
